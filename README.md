@@ -2,9 +2,16 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Hello%20world%20!&fontSize=30&animation=fadeIn&fontAlignY=36"/>
 </p>
 
-<p align='center'>
+<!--p align='center'>
     <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTcya2UyZTNtbTR2MnNzZWI3c2FoMGk1dnd5ZWh6eTZrZnc3MGVvZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fFcOE2gZWG0hgMpy8x/giphy.gif">
+</p-->
+
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTcya2UyZTNtbTR2MnNzZWI3c2FoMGk1dnd5ZWh6eTZrZnc3MGVvZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fFcOE2gZWG0hgMpy8x/giphy.gif" 
+       alt="Cute GIF" 
+       style="display: block; margin: 0 auto; width: 100%;" />
 </p>
+
 
 <h1 align="center">🎀✨ Full Stack web Dev ✨🎀</h1>
 
