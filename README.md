@@ -2,11 +2,16 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Hello%20world%20!&fontSize=30&animation=fadeIn&fontAlignY=36"/>
 </p>
 
-<div style="background: linear-gradient(135deg, #ffc0cb, #ffb6c1, #ffe4e1); padding: 9px; text-align: center; border-radius: 20px;">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTcya2UyZTNtbTR2MnNzZWI3c2FoMGk1dnd5ZWh6eTZrZnc3MGVvZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fFcOE2gZWG0hgMpy8x/giphy.gif" 
-       alt="Cute GIF" 
-       style="width: 100%; border-radius: 15px;" />
-</div>
+<table align="center" bgcolor="#ffe4e1" cellpadding="10" cellspacing="0" style="border-radius: 20px;">
+  <tr>
+    <td>
+      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTcya2UyZTNtbTR2MnNzZWI3c2FoMGk1dnd5ZWh6eTZrZnc3MGVvZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fFcOE2gZWG0hgMpy8x/giphy.gif" 
+           alt="Cute GIF" 
+           style="border-radius: 15px; display: block;" />
+    </td>
+  </tr>
+</table>
+
 
 ---
 
