@@ -1,41 +1,11 @@
-<style>
-@keyframes sparkle {
-  0%, 100% {
-    box-shadow:
-      0 0 5px 2px #ff9cdf,
-      0 0 10px 4px #ff7bb5,
-      0 0 15px 6px #ff69b4;
-  }
-  50% {
-    box-shadow:
-      0 0 10px 3px #ffb6d9,
-      0 0 15px 5px #ff85bf,
-      0 0 20px 7px #ff77c7;
-  }
-}
-
-.sparkly-border {
-  border-radius: 20px;
-  animation: sparkle 2s infinite alternate;
-  border: 1px solid #ff69b4;
-}
-</style>
-
 <p align='center'>
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Hello%20world%20!&fontSize=30&animation=fadeIn&fontAlignY=36"/>
 </p>
 
-<!--div style="background: linear-gradient(135deg, #ffc0cb, #ffb6c1, #ffe4e1); padding: 10px; text-align: center; border-radius: 20px;">
+<div style="background: linear-gradient(135deg, #ffc0cb, #ffb6c1, #ffe4e1); padding: 9px; text-align: center; border-radius: 20px;">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTcya2UyZTNtbTR2MnNzZWI3c2FoMGk1dnd5ZWh6eTZrZnc3MGVvZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fFcOE2gZWG0hgMpy8x/giphy.gif" 
        alt="Cute GIF" 
        style="width: 100%; border-radius: 15px;" />
-</div-->
-
-<div style="background: linear-gradient(135deg, #ffc0cb, #ffb6c1, #ffe4e1); padding: 10px; text-align: center; border-radius: 20px;">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTcya2UyZTNtbTR2MnNzZWI3c2FoMGk1dnd5ZWh6eTZrZnc3MGVvZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fFcOE2gZWG0hgMpy8x/giphy.gif" 
-       alt="Cute GIF" 
-       style="width: 100%; border-radius: 15px;"
-       class="sparkly-border" />
 </div>
 
 ---
