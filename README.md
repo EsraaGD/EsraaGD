@@ -43,7 +43,6 @@
 <h4 align="center"><b>🎀✨Thanks for stopping by!🎀✨</b></h4>
 <h4 align="center"> ✨Let’s build something magical together! ✨</h4>
 
-----------
 <p align='center'>
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=footer&text=Bye%20world%20!&fontSize=50&animation=fadeIn&fontAlignY=75"/>
 </p>
