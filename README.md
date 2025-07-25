@@ -1,8 +1,8 @@
 <p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=header&text=Hello%20world%20!&fontSize=50&animation=fadeIn&fontAlignY=38"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=header&text=Hello%20world%20!&fontSize=50&animation=fadeIn&fontAlignY=36"/>
 </p>
 
-<h1 align="center">🎀 Full Stack web Dev 🎀</h1>
+<h1 align="center">🎀✨ Full Stack web Dev ✨🎀</h1>
 
 ### Languages and tools:
 <div align="center">
@@ -35,11 +35,15 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=esraagd&show_icons=true&theme=rose&locale=en"/>
 </p>
 
-![Love](https://img.shields.io/badge/made%20with-%F0%9F%92%96%20and%20code-ffb6c1?style=for-the-badge)
+<p align="center">
+  <img src="https://img.shields.io/badge/made%20with-%F0%9F%92%96%20and%20code-ffb6c1?style=for-the-badge" alt="Love Badge"/>
+</p>
+
 
 <h4 align="center"><b>🎀✨Thanks for stopping by!🎀✨</b></h4>
 <h4 align="center"> ✨Let’s build something magical together! ✨</h4>
 
 ----------
-<p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&text=Bye%20world!&section=footer
+<p align='center'>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=footer&text=Bye%20world%20!&fontSize=50&animation=fadeIn&fontAlignY=75"/>
+</p>
