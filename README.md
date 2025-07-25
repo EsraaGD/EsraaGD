@@ -2,6 +2,8 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=header&text=Hello%20world%20!&fontSize=50&animation=fadeIn&fontAlignY=36"/>
 </p>
 
+<iframe src="https://giphy.com/embed/147a7QKzPPbHBC" width="480" height="432" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+
 <h1 align="center">🎀✨ Full Stack web Dev ✨🎀</h1>
 
 ### Languages and tools:
