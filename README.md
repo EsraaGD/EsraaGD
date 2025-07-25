@@ -1,8 +1,10 @@
 <p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=header&text=Hello%20world%20!&fontSize=50&animation=fadeIn&fontAlignY=36"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Hello%20world%20!&fontSize=30&animation=fadeIn&fontAlignY=36"/>
 </p>
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTcya2UyZTNtbTR2MnNzZWI3c2FoMGk1dnd5ZWh6eTZrZnc3MGVvZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fFcOE2gZWG0hgMpy8x/giphy.gif">
+<p align='center'>
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTcya2UyZTNtbTR2MnNzZWI3c2FoMGk1dnd5ZWh6eTZrZnc3MGVvZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fFcOE2gZWG0hgMpy8x/giphy.gif">
+</p>
 
 <h1 align="center">🎀✨ Full Stack web Dev ✨🎀</h1>
 
