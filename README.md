@@ -43,9 +43,7 @@
   <img src="https://img.shields.io/badge/made%20with-%F0%9F%92%96%20and%20code-ffb6c1?style=for-the-badge" alt="Love Badge"/>
 </p>
 
-
 <h4 align="center"><b>🎀✨Thanks for stopping by!🎀✨</b></h4>
-<h4 align="center"> ✨Let’s build something magical together! ✨</h4>
 
 <p align='center'>
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Bye%20world%20!&fontSize=30&animation=fadeIn&fontAlignY=75"/>
